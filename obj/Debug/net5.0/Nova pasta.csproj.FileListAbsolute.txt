@@ -1,0 +1,32 @@
+C:\Users\gabri\Documents\Nova pasta\bin\Debug\net5.0\Nova pasta.exe
+C:\Users\gabri\Documents\Nova pasta\bin\Debug\net5.0\Nova pasta.deps.json
+C:\Users\gabri\Documents\Nova pasta\bin\Debug\net5.0\Nova pasta.runtimeconfig.json
+C:\Users\gabri\Documents\Nova pasta\bin\Debug\net5.0\Nova pasta.runtimeconfig.dev.json
+C:\Users\gabri\Documents\Nova pasta\bin\Debug\net5.0\Nova pasta.dll
+C:\Users\gabri\Documents\Nova pasta\bin\Debug\net5.0\ref\Nova pasta.dll
+C:\Users\gabri\Documents\Nova pasta\bin\Debug\net5.0\Nova pasta.pdb
+C:\Users\gabri\Documents\Nova pasta\obj\Debug\net5.0\Nova pasta.csprojAssemblyReference.cache
+C:\Users\gabri\Documents\Nova pasta\obj\Debug\net5.0\Nova pasta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\Nova pasta\obj\Debug\net5.0\Nova pasta.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\Nova pasta\obj\Debug\net5.0\Nova pasta.AssemblyInfo.cs
+C:\Users\gabri\Documents\Nova pasta\obj\Debug\net5.0\Nova pasta.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\Nova pasta\obj\Debug\net5.0\Nova pasta.dll
+C:\Users\gabri\Documents\Nova pasta\obj\Debug\net5.0\ref\Nova pasta.dll
+C:\Users\gabri\Documents\Nova pasta\obj\Debug\net5.0\Nova pasta.pdb
+C:\Users\gabri\Documents\Nova pasta\obj\Debug\net5.0\Nova pasta.genruntimeconfig.cache
+C:\Users\gabri\Documents\ÁrvoreAVL\bin\Debug\net5.0\Nova pasta.exe
+C:\Users\gabri\Documents\ÁrvoreAVL\bin\Debug\net5.0\Nova pasta.deps.json
+C:\Users\gabri\Documents\ÁrvoreAVL\bin\Debug\net5.0\Nova pasta.runtimeconfig.json
+C:\Users\gabri\Documents\ÁrvoreAVL\bin\Debug\net5.0\Nova pasta.runtimeconfig.dev.json
+C:\Users\gabri\Documents\ÁrvoreAVL\bin\Debug\net5.0\Nova pasta.dll
+C:\Users\gabri\Documents\ÁrvoreAVL\bin\Debug\net5.0\ref\Nova pasta.dll
+C:\Users\gabri\Documents\ÁrvoreAVL\bin\Debug\net5.0\Nova pasta.pdb
+C:\Users\gabri\Documents\ÁrvoreAVL\obj\Debug\net5.0\Nova pasta.csprojAssemblyReference.cache
+C:\Users\gabri\Documents\ÁrvoreAVL\obj\Debug\net5.0\Nova pasta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\ÁrvoreAVL\obj\Debug\net5.0\Nova pasta.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\ÁrvoreAVL\obj\Debug\net5.0\Nova pasta.AssemblyInfo.cs
+C:\Users\gabri\Documents\ÁrvoreAVL\obj\Debug\net5.0\Nova pasta.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\ÁrvoreAVL\obj\Debug\net5.0\Nova pasta.dll
+C:\Users\gabri\Documents\ÁrvoreAVL\obj\Debug\net5.0\ref\Nova pasta.dll
+C:\Users\gabri\Documents\ÁrvoreAVL\obj\Debug\net5.0\Nova pasta.pdb
+C:\Users\gabri\Documents\ÁrvoreAVL\obj\Debug\net5.0\Nova pasta.genruntimeconfig.cache
